@@ -11,3 +11,7 @@ The repository contains solutions using different data structures such as arrays
 
 Each solution is available as a directly executable Swift file. You can run these files in your local environment to see the solutions in action.
 
+## Credits and License
+
+This repository uses templates and concepts taught by Jonathan Rasmusson in his course on Udemy. The original templates by Jonathan Rasmusson are licensed under the MIT License. This project modifies and expands upon those templates, and my contributions are also shared under the MIT License as per the terms of the original work.
+
